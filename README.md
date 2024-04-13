@@ -40,7 +40,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - [Acesse a aplicação finalizada, online](https://bernardosa01.github.io/NLW-Expert)
 <br>
-## 📝 Licença
+
+## :memo: Licença
 
 Esse projeto está sob a licença MIT.
 
